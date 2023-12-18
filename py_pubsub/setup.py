@@ -1,6 +1,6 @@
 from setuptools import setup
 
-package_name = 'simay'
+package_name = 'simcik'
 
 setup(
     name=package_name,
@@ -13,7 +13,7 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='simay',
+    maintainer='simcik',
     maintainer_email='simay224090@ogr.duzce.edu.tr',
     description='Examples of minimal publisher/subscriber using rclpy',
     license='Apache License 2.0',
